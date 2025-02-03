@@ -2,6 +2,7 @@
 Automate playing videos on youtube using python 
 
 # LINK TO CHROME DRIVER
+URL: https://googlechromelabs.github.io/chrome-for-testing/#stable 
 # Add Chromedriver to PATH (Optional):
 Windows: 
 Add =>    C:\Users\Aayush Kamtikar\Documents\Chrome Web Driver\chromedriver-win64\ to your system's PATH variable.
