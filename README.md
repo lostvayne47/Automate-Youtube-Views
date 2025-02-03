@@ -1,6 +1,7 @@
 # Automate-Youtube-Views
 Automate playing videos on youtube using python 
 
+# LINK TO CHROME DRIVER
 # Add Chromedriver to PATH (Optional):
 Windows: 
 Add =>    C:\Users\Aayush Kamtikar\Documents\Chrome Web Driver\chromedriver-win64\ to your system's PATH variable.
@@ -13,6 +14,4 @@ Click "Advanced system settings" > "Environment Variables".
 Under "System Variables", scroll down and find the "Path" variable, select it, and click "Edit".
 
 Add C:\Users\Aayush Kamtikar\Documents\Chrome Web Driver\chromedriver-win64\ to the list of paths.
-
-
 
